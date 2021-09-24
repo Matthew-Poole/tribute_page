@@ -1,0 +1,23 @@
+#main {
+    margin: 0;
+    padding: 0;
+
+}
+
+#title {
+    text-align: center;
+    padding: 4px 0 8px 0;
+    
+}
+
+#title h1 {
+    font-size: 48px;
+}
+
+header {
+    background-color: rgba(211, 211, 211, 0.856);
+}
+
+#img-div {
+    text-align: center;
+}
